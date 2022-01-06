@@ -29,7 +29,7 @@ CSV FILES:
 A number of CSV files are included in the repository. There are the files that were produced when I last ran the program. If and when you run the program yourself, some of these (post-neural network, especially) may look a bit different. This may lead to slightly different figures and tables.
 
 ## R Code
-To reproduce the figures in the report, see the three attached R files and "graph_me.csv." The tracking data for the relvant play is stored in this CSV file. Run R_work.R to create and save the animation. This file reads from fbf.R.
+To reproduce the figures in the report, see the three attached R files and "graph_me.csv." The tracking data for the relevant play is stored in this CSV file. Run R_work.R to create and save the animation. This file reads from fbf.R.
 
 To reproduce the charts, make sure bdb_figures.R is in the same folder as all the CSV files produced by the Python code above (you will need to run that first, or use the CSV files I have attached). Then run bdb_figures.R. The following variables should now contain the plots.
 
