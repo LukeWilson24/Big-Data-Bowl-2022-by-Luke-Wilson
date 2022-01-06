@@ -14,6 +14,7 @@ HDEADER FILES:
 1. helper.py
 2. neural_network_functions.py
 3. prepare_play_data.py
+
 Note: These files mostly contain functions and are already imported in the appropriate places in the main files.
 
 DATA PROCESSING FILES:
@@ -26,7 +27,7 @@ Run the following files in this order.
 
 
 CSV FILES:
-A number of CSV files are included in the repository. There are the files that were produces when I last ran the program. If and when you run the program yourself, some of these (post-neural network, specifically) may look a bit different. This may lead to slightly different figures and tables.
+A number of CSV files are included in the repository. There are the files that were produced when I last ran the program. If and when you run the program yourself, some of these (post-neural network, especially) may look a bit different. This may lead to slightly different figures and tables.
 
 ## R Code
 To reproduce the figures in the report, see the three attached R files and "graph_me.csv." The tracking data for the relvant play is stored in this CSV file. Run R_work.R to create and save the animation. This file reads from fbf.R.
