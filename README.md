@@ -45,4 +45,4 @@ To reproduce the charts, make sure bdb_figures.R is in the same folder as all th
 ### Extra Notes
 I used IDLE for Python code and RStudio for R code. I am not a computer scientist - I understand *that* these things work with my configuration, not how they work. I can offer no advice on how to set up your workspace.
 
-GitHub does not support the tracking files because they are too big. You will need to provide them yourself. Sorry.
+GitHub does not support the much of the data because the files are too big. Therefore, I have not included any of the data provided to me through the Big Data Bowl Competition.
