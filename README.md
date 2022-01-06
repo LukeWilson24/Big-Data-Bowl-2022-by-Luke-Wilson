@@ -13,7 +13,6 @@ The files are as follows.
 HDEADER FILES:
 1. helper.py
 2. neural_network_functions.py
-3. prepare_play_data.py
 
 Note: These files mostly contain functions and are already imported in the appropriate places in the main files.
 
